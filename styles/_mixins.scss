@@ -1,0 +1,11 @@
+@mixin width(){
+    width: 90%;
+    margin: auto;
+}
+@mixin root(){
+    height: 100dvh;
+    color: #000000;
+    background-color: $background-color;
+    font-family: Inter;
+    margin: 0%;
+}
